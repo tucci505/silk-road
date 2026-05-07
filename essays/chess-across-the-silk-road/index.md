@@ -46,13 +46,10 @@ The Kuwait knight chess piece and the Ashmolean ivory rook show how Islamic ches
 
 
 ## The Changing Meaning of the Rook
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
+The Ashmolean ivory rook is especially important because it shows how a single chess piece could carry different meanings in different cultures. Remke Kruk’s article on rukhs, rooks, camels, and castles explains how the rook’s identity changed over time. Kruk writes that “in the ancient Indian chess game, the rook was shaped like a chariot,” and that the piece received its name from ratha. Later, the piece could be interpreted differently in Persian, Arabic, and European traditions. This transformation shows that chess pieces were not fixed symbols. They were translated visually and linguistically as the game moved.[^kruk]
 
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
+[^kruk]:Remke Kruk, “Of Rukhs and Rooks, Camels and Castles,” Oriens 36 (2001): 288–298. Kruk writes that “in the ancient Indian chess game, the rook was shaped like a chariot,” connecting the rook to ratha and later rukh/rook traditions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
 
 
 ## The Meaning of Chess Across the Silk Road
