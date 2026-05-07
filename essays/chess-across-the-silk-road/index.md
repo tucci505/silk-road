@@ -1,10 +1,10 @@
 ---
 author: student name
-title: "Camels on the Silk Road Trade Network"
-layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
-summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
+title: "Chess across the silk road"
+layout: scrollstory
+header-image: images/chess-move-header.jpg
+thumbnail: images/chess-project-header.png
+summary: The evolution of chess is somewhat a mystery, but traces of its history can be found across old silk road trade routes.
 ---
 
 # Example Thematic Essay
