@@ -1,8 +1,8 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: Seth Matteucci
+title: "libro de los juegos"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/spain-flag.jpg
 thumbnail: images/ota-gate-demo-gray.png
 summary: Discusses the playing of a chess match in the 13th century muslim spain.
 ---
