@@ -55,7 +55,7 @@ The Ashmolean ivory rook is especially important because it shows how a single c
 ## The Meaning of Chess Across the Silk Road
 Together, these objects show that chess across the Silk Road was not just entertainment. It was a cultural object shaped by migration, empire, trade, translation, and artistic interpretation. The game’s movement across regions reveals how people adapted foreign practices into local traditions. 
 
->
+> "Remke Kruk: In the ancient Indian chess game, the rook was shaped like a chariot, and from that it received its name, ratha.”
 
 Chess became Persian, Islamic, Central Asian, Iberian, and European while still remaining recognizable as one game. That tension between continuity and change is what makes chess such a powerful example of Silk Road exchange.
 
