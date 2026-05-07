@@ -39,14 +39,10 @@ The Brest king chess piece shows another part of chess’s movement. Found in Br
 
 
 ## Abstract Pieces and Local Styles
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg" %}
+{% include images/figure.html class="right" width="60%" caption="  [Source](https://www.britishmuseum.org/collection/image/1129896001)"
+image-path="images/abstract-ivory-figure.jpg" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+The Kuwait knight chess piece and the Ashmolean ivory rook show how Islamic chess pieces could be abstract, symbolic, and difficult to classify. Anna Contadini’s work on Islamic chess pieces in the Ashmolean Museum explains that chess pieces from the Islamic era fall into two major families: representational pieces and abstract pieces. This helps explain why the Kuwait piece, possibly a knight, camel, or horse, is hard to classify with certainty. It also shows that chess pieces were not always made from the same materials or represented in the same style. Gordon also notes that as chess settled into new regions, “the overall rules remained much the same, but the shapes of the pieces varied.”
 
 
 ## The Changing Meaning of the Rook
