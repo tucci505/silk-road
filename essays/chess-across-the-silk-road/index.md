@@ -63,5 +63,7 @@ Chess became Persian, Islamic, Central Asian, Iberian, and European while still 
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Băcueț-Crișan, Dan, Aurel-Daniel Stănică, and Timea Keresztes. “Archaeological Materiality of Chess Playing in the Middle Ages: A Few Possible Examples from the Current Territory of Romania.” Ziridava Studia Archaeologica 36 (2022): 1–18.
+- Contadini, Anna. “Islamic Ivory Chess Pieces, Draughtsmen and Dice in the Ashmolean Museum.” In Islamic Art in the Ashmolean Museum, edited by James W. Allan, 111–130. Oxford Studies in Islamic Art, Vol. 10. Oxford: Oxford University Press, 1995.
+- Gordon, Stewart. “The Game of Kings.” Saudi Aramco World 60, no. 4 (July/August 2009): 18–23.
+- Kruk, Remke. “Of Rukhs and Rooks, Camels and Castles.” Oriens 36 (2001): 288–298.
