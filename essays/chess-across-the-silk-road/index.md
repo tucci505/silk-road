@@ -15,21 +15,14 @@ Chess is often thought of today as a single, universal game with fixed pieces, r
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.britishmuseum.org/collection/image/156777001)"
+image-path="images/origins-movement.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+The early history of chess is difficult to trace with certainty, but scholars often connect its development to South Asia, Persia, and Central Asia. Gordon writes that archaeological evidence points to “Persia and Central Asia,” especially through finds from Afrasiab, the oldest part of Samarkand in present-day Uzbekistan. At the same time, he explains that the Persian word chatrang came from the Sanskrit chaturanga, a term connected to the four parts of an early Indian army. This suggests that chess did not belong to one isolated culture. Instead, it developed through movement, borrowing, and reinterpretation. As chess moved, it was absorbed into new languages and political cultures. The names and meanings of the pieces shifted from one region to another.[^gordon1]
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+[^gordon1]: Gordon, “The Game of Kings,” 18–23. Gordon writes that “Archaeological evidence suggests that chess has ancient roots in Persia and Central Asia.”
 
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
 
 
 ## A Game in Transition
@@ -37,7 +30,9 @@ Each section heading (marked with `##` in Markdown) creates a clear visual break
 
 **Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.[^gordon2]
+
+[^gordon2]:Put your next footnote source information here.
 
 
 ## Chess in Material Culture
