@@ -3,7 +3,7 @@ author: Seth Matteucci
 title: "kuwait knight"
 layout: base
 header-image: images/spain-flag.png
-thumbnail: images/spain-chess-piece.png
+thumbnail: images/kwuait-flag.png
 summary: Talks about a Knight found in Kuwait around the 9th century.
 geo: [44.123, 79.874]
 ---
