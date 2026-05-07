@@ -15,7 +15,7 @@ Chess is often thought of today as a single, universal game with fixed pieces, r
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://www.britishmuseum.org/collection/image/156777001)"
+caption="This is an grouping of ivory chess pieces, not all are found in such great condition. Making tracing tactics much harder.[Source](https://www.britishmuseum.org/collection/image/156777001)"
 image-path="images/origins-movement.jpg"
 %}
 
