@@ -53,11 +53,11 @@ The Ashmolean ivory rook is especially important because it shows how a single c
 
 
 ## The Meaning of Chess Across the Silk Road
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
+Together, these objects show that chess across the Silk Road was not just entertainment. It was a cultural object shaped by migration, empire, trade, translation, and artistic interpretation. The game’s movement across regions reveals how people adapted foreign practices into local traditions. 
 
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
+>
 
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
+Chess became Persian, Islamic, Central Asian, Iberian, and European while still remaining recognizable as one game. That tension between continuity and change is what makes chess such a powerful example of Silk Road exchange.
 
 ---
 
