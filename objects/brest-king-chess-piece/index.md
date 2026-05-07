@@ -5,7 +5,7 @@ layout: base
 header-image: images/spain-flag.png
 thumbnail: images/spain-chess-piece.png
 summary: Discusses the playing of a chess match in the 13th century muslim spain.
-geo: [44.123, 79.874]
+geo: [52.10863, 23.66577]
 ---
 
 
