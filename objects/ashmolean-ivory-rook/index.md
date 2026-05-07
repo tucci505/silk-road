@@ -1,3 +1,4 @@
+---
 author: Seth Matteucci
 title: "ashmolean ivory rook"
 layout: base

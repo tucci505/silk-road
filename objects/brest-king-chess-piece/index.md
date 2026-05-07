@@ -1,3 +1,4 @@
+---
 author: Seth Matteucci
 title: "brest king chess piece"
 layout: base
