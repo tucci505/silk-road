@@ -9,8 +9,8 @@ summary: Discusses the playing of a chess match in the 13th century muslim spain
 
 ## Brest King
 
-{% include images/figure.html class="right" width="60%" caption=" The game of Kings"
-image-path="images/libro-object.png" %}
+{% include images/figure.html class="right" width="60%" caption=" Brest King"
+image-path="images/brest-object.png" %}
 
 The Brest king chess piece is a medieval object discovered in Brest, Belarus, and dated to the 12th or 13th century. It is identified as a depiction of a king, with one example described as fully intact and another related example described as fractured or incomplete. Even though the object is small, it is historically important because it provides material evidence for the spread of chess into medieval eastern Europe. Unlike written sources, which often describe chess as a game of courts and elites, archaeological objects show how the game existed physically in people's lives.
 This object matters because chess pieces are not always easy to identify. The article by Dan Băcueț-Crișan, Aurel-Daniel Stănică, and Timea Keresztes focuses on the archaeological materiality of chess in the Middle Ages. Their work argues that some artifacts deserve to be reconsidered as possible chess pieces. This is important because small carved figures may not always be labeled or discovered with a complete chess set. Archaeologists often have to compare them with similar objects from other places in order to understand their function. The Brest king is useful because it gives scholars a point of comparison for identifying other medieval chess pieces.

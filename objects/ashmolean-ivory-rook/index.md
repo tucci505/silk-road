@@ -9,8 +9,8 @@ summary: Discusses the playing of a chess match in the 13th century muslim spain
 
 ## Ashmolean Ivory Rook
 
-{% include images/figure.html class="right" width="60%" caption=" The game of Kings"
-image-path="images/libro-object.png" %}
+{% include images/figure.html class="right" width="60%" caption=" Ashmolean Ivory Rook"
+image-path="images/ashmolean-object.png" %}
 
 The Ashmolean ivory rook is a chess piece dated to the 7th-9th century CE and identified as Ashmolean Museum no. X3320. It is important because it helps explain how the rook changed meaning as chess moved across regions. Today, the rook is usually imagined as a castle tower. However, that was not always its meaning. Earlier traditions connected the piece to different ideas, including the Indian chariot. This object therefore shows how chess pieces could be reinterpreted as the game traveled.
 Remke Kruk's article, “Of Rukhs and Rooks, Camels and Castles,” is especially important for this object. Kruk studies why the rook was called rukh in Arabic and Persian traditions and how the name became associated with different meanings. Kruk connects the rook's original identity to the Indian chess chariot, or ratha, while also showing how the piece's meaning changed in the medieval Middle East and Europe. This makes the rook one of the clearest examples of cultural translation in chess history.
