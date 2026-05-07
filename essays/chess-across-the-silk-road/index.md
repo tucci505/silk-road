@@ -3,7 +3,7 @@ author: student name
 title: "Chess across the silk road"
 layout: scrollstory
 header-image: images/chess-move-header.jpg
-thumbnail: images/chess-project-header.png
+thumbnail: images/chess-project-header.jpg
 summary: The evolution of chess is somewhat a mystery, but traces of its history can be found across old silk road trade routes.
 ---
 
