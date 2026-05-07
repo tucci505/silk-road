@@ -34,7 +34,7 @@ The four objects in this exhibit show that transformation. A page from the 1282 
 ## Chess in Material Culture
 The Brest king chess piece shows another part of chess’s movement. Found in Brest, Belarus, and dated to the 12th or 13th century, it reveals how chess became visible in medieval European material culture. Archaeologists have sometimes had to reinterpret small carved objects as possible chess pieces, especially when their function is not immediately obvious. Băcueț-Crișan, Stănică, and Keresztes argue that some medieval artifacts deserve a second look as possible chess pieces because comparison with other examples can change how scholars understand them. Their article explains that some objects have “formal characteristics indicative of chess playing,” but that their identification can remain difficult. This reminds us that chess did not always leave behind complete boards or sets. Sometimes its history survives through isolated pieces whose form, date, and comparison to other finds help scholars understand how widely the game spread.
 
-{% include typography/aside.html class="right" text="Sometimes chess history survives through isolated pieces.
+{% include typography/aside.html class="right" text="Sometimes chess history survives through isolated pieces found in unexpected places.
 " %}
 
 
