@@ -32,14 +32,11 @@ The four objects in this exhibit show that transformation. A page from the 1282 
 
 
 ## Chess in Material Culture
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+The Brest king chess piece shows another part of chess’s movement. Found in Brest, Belarus, and dated to the 12th or 13th century, it reveals how chess became visible in medieval European material culture. Archaeologists have sometimes had to reinterpret small carved objects as possible chess pieces, especially when their function is not immediately obvious. Băcueț-Crișan, Stănică, and Keresztes argue that some medieval artifacts deserve a second look as possible chess pieces because comparison with other examples can change how scholars understand them. Their article explains that some objects have “formal characteristics indicative of chess playing,” but that their identification can remain difficult. This reminds us that chess did not always leave behind complete boards or sets. Sometimes its history survives through isolated pieces whose form, date, and comparison to other finds help scholars understand how widely the game spread.
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+{% include typography/aside.html class="right" text="Sometimes chess history survives through isolated pieces.
+" %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 ## Abstract Pieces and Local Styles
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
