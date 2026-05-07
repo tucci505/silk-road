@@ -26,13 +26,9 @@ The early history of chess is difficult to trace with certainty, but scholars of
 
 
 ## A Game in Transition
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+The four objects in this exhibit show that transformation. A page from the 1282 Libro de los Juegos shows two turbaned players engaged in a chess match in medieval Spain. This image suggests that chess in Spain still carried visible connections to the Islamic and Mediterranean worlds. Gordon explains that internal evidence from the Book of Games suggests chess in 13th-century Spain “was in transition” from the game played in the Middle East and North Africa to what it later became in Europe. In this object, chess appears not only as a game but also as evidence of cross-cultural contact.[^gordon2]
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.[^gordon2]
-
-[^gordon2]:Put your next footnote source information here.
+[^gordon2]:Gordon, “The Game of Kings,” 18–23. Gordon explains that internal evidence from the Book of Games suggests “chess in 13th-century Spain was in transition from the game played in the Middle East and North Africa to what it would become in Europe.”
 
 
 ## Chess in Material Culture
