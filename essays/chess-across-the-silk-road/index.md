@@ -9,10 +9,7 @@ summary: The evolution of chess is somewhat a mystery, but traces of its history
 
 # Example Thematic Essay
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
+Chess is often thought of today as a single, universal game with fixed pieces, rules, and meanings. However, its history shows something much more complex. Chess developed through trade and human movement. As it traveled across Asia, the Middle East, North Africa, and Europe, the game changed form. Its pieces held different names, the looked different, and were played differently by each sub group. For that reason, chess is a useful way to study the flow of the silk road. The silk road was not only a route for silk, spices, coins, and luxury goods. It was also a network in which ideas, games, symbols, and countless cultures made their way around the worlds venous system. Chess and its origins are forged within these movements. 
 
 ## Your First Section Heading
 {% include images/figure.html
