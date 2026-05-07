@@ -2,8 +2,8 @@
 author: Seth Matteucci
 title: "libro de los juegos"
 layout: base
-header-image: images/spain-flag.jpg
-thumbnail: images/ota-gate-demo-gray.png
+header-image: images/spain-flag.png
+thumbnail: images/spain-chess-piece.png
 summary: Discusses the playing of a chess match in the 13th century muslim spain.
 ---
 
