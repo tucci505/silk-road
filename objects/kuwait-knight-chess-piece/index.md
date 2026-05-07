@@ -10,6 +10,9 @@ summary: Talks about a Knight found in Kuwait around the 9th century.
 
 ## Kuwait Knight
 
+{% include images/figure.html class="right" width="60%" caption=" The game of Kings"
+image-path="images/libro-object.png" %}
+
 This object is a 9th-century chess piece from Kuwait, described as a possible knight, camel, or horse. It is connected to Dar al-Athar al-Islamiyya and is unusual because it is made from stone, while many other Islamic chess pieces were made from ivory. The piece has a simple, abstract form. Instead of clearly showing a naturalistic horse or rider, it uses a more reduced shape. This makes the object visually powerful but also difficult to identify with complete certainty.
 The uncertainty surrounding this piece is one of the reasons it is valuable. Anna Contadini's study of Islamic chess pieces, draughtsmen, and dice in the Ashmolean Museum explains that early Islamic chess pieces can be difficult to classify and date. One reason is that early chess treatises often described board positions but did not always provide detailed illustrations of the pieces themselves. Because of this, scholars must compare surviving objects by material, shape, style, and context. The Kuwait piece fits into that larger problem of interpretation.
 The possible identification of the piece as a knight, camel, or horse also reveals how chess changed as it moved. In modern European chess, the knight is represented by a horse's head. But earlier chess traditions did not always use the same forms or names. In some Islamic and Persian contexts, pieces could be abstracted because of artistic conventions or because the symbolic function mattered more than realistic representation. This object therefore shows that chess pieces were not universal in appearance. They were adapted to local artistic languages.
