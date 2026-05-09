@@ -6,6 +6,11 @@ header-image: images/spain-flag.png
 thumbnail: images/spain-chess-piece.png
 summary: Discusses the origins and meaning of the word rukh.
 geo: [51.77493, -1.28031]
+placename: Oxford
+tags:
+  - british
+  - chess
+  - england
 ---
 
 

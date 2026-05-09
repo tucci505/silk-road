@@ -6,6 +6,11 @@ header-image: images/knight-rider-fresh.png
 thumbnail: images/brest-chess-board-piece.jpg
 summary: Discusses a chess piece found in easter europe, and its roll in identifying how chess changed forms across different regions.
 geo: [52.10863, 23.66577]
+placename: Brest
+tags:
+  - Belarus
+  - Eastern
+  - Europe
 ---
 
 

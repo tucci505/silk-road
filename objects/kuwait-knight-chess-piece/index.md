@@ -6,6 +6,11 @@ header-image: images/kuwait-flag.png
 thumbnail: images/kuwait-chess-flag.png
 summary: Talks about a Knight found in Kuwait around the 9th century.
 geo: [29.65679, 48.04571]
+placename: Kuwait
+tags:
+  - Middle east
+  - Islam
+  - Arab
 ---
 
 
