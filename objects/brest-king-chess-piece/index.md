@@ -4,7 +4,7 @@ title: "brest king chess piece"
 layout: base
 header-image: images/knight-rider-fresh.png
 thumbnail: images/brest-chess-board-piece.jpg
-summary: Discusses the playing of a chess match in the 13th century muslim spain.
+summary: Discusses a chess piece found in easter europe, and its roll in identifying how chess changed forms across different regions.
 geo: [52.10863, 23.66577]
 ---
 
