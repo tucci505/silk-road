@@ -2,7 +2,7 @@
 author: Seth Matteucci
 title: "brest king chess piece"
 layout: base
-header-image: images/spain-flag.png
+header-image: images/knight-rider-fresh.png
 thumbnail: images/spain-chess-piece.png
 summary: Discusses the playing of a chess match in the 13th century muslim spain.
 geo: [52.10863, 23.66577]
